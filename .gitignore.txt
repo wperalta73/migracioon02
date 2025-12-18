@@ -1,0 +1,6 @@
+data/raw/
+data/processed/
+*.dta
+*.sav
+*.zip
+*.7z
